@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kanban Board - React, Redux, TypeScript
 
 This application is a customizable Kanban board built using React, Redux, TypeScript, and Tailwind CSS. The primary focus of the app is to demonstrate the use of Redux Toolkit for state management. The use of TypeScript ensures type safety and better developer experience, while Redux Toolkit efficiently manages the complex state transitions across the board columns.
@@ -54,3 +55,6 @@ npm run dev
 ```
 
 Happy Coding and Learning 😊
+=======
+# React-Redux-Typescript-React-Router-Tailwind
+>>>>>>> 8eef65447ec5b0490492874c87fee8dd00391fe1
